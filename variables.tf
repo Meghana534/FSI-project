@@ -32,7 +32,7 @@ variable "availability_zone" {
 
 variable "s3_bucket_name" {
   description = "S3 Bucket Name"
-  default     = "meghana765412"
+  default     = "lastbucket321"
 }
 
 variable "region" {
